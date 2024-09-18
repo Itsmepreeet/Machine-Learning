@@ -1,11 +1,11 @@
 # Machine-Learning
 This repository of machine learning contain Ml programs and projects. 
-Summary of repository:
-   Supervised Learning.
+<br>Summary of repository:
+   <li>Supervised Learning.
    Unsupervised Learning.
    Ensemble Learning.
    Feature Engineering.
    Model tuning and selection.
    Project 1 on Regression.
-   Project 2 on Classification
+   Project 2 on Classification<li/>
    
